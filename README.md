@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @Arooba-Khan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning about Web Development
-- 💞️ I’m looking to collaborate with diff companies realated to web
-- 📫 How to reach me khanarohi983@gmail.com
-- 😄 Pronouns: she/her
 
 
 <!---
